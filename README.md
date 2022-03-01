@@ -4,6 +4,7 @@
 Event: Key Release
 Section Type: jQuery Selector
 jQuery Selector: selector that will trigger the highlight ex: .a-IRR-search-field class of IR search bar
+
 ![when-to-fire](https://user-images.githubusercontent.com/5824892/156163306-5e780754-82fc-47d5-bbae-cbce7b1007fa.png)
 
 Settings:
