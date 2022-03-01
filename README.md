@@ -1,5 +1,7 @@
 # APEX Search Highlight
- This is a small plugin that will highlight text on a page when the user types
+![](https://img.shields.io/badge/ORACLE-APEX-success.svg) ![](https://img.shields.io/badge/Plug--in_Type-Dynamic_Action-orange.svg) ![](https://img.shields.io/badge/Avaiable%20for%20APEX-5.1.3%20or%20above-blue)
+
+This is a small plugin that will highlight text on a page when the user types
  
 Event: Key Release
 
@@ -15,3 +17,6 @@ jQuery selector to be highlighted: the element that will be highlighted when the
 CSS class of highlight: the class that will be added or removed when the search criteria are meet or not.
 
 ![settings](https://user-images.githubusercontent.com/5824892/156163313-2357742d-08a7-439b-b433-eee301509570.png)
+
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AlexandruBasarab)
